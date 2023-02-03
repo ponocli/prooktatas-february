@@ -1,3 +1,49 @@
 body{
     background-image: url(./Image/back.jpg);
+    
+   width: 1000px;
+background-repeat: no-repeat;
+
+    
+    margin-top: 1%;
+    margin-left: 3%;
+    margin-right: 3%;
+ }
+header{
+margin: auto;
+min-width: 650px;
+max-width: 1000px;
+background-image: url(./Image/panorama.jpg), url(./Image/cimer.jpg);
+background-position: left;
+padding-bottom: 10%;
+padding-left: 3%;
+padding-top: 0.2%;
 }
+#cikk1{
+    float: left;
+    background-color: #5B9CEA;
+    width:45%;
+    padding: 2%;
+    
+}
+#cikk2{
+    float: right;
+    background-color: #5B9CEA;
+    width:45%;
+    padding: 2%;
+}
+table, td, tr{
+    border: 1px dotted black;
+    text-align: center;
+    background-color: #B0D1F1;
+    width: 450px;
+    }
+    table>td{
+        }
+        h4{
+            color: black;
+            }
+        img{
+            width: 100px;
+            height: 100px;
+        }

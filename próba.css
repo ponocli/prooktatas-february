@@ -1,0 +1,14 @@
+body{
+    
+    background-image: url(./Image/back.jpg);
+}
+.torzs{
+background: url(./Image/panorama.jpg), url(./Image/cimer.jpg);
+background-position: left, right;
+background-size: auto, auto;
+min-width: 650px;
+max-width: 1000px;
+margin: auto;
+padding: 10px;
+
+}
